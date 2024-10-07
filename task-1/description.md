@@ -28,6 +28,23 @@
 ## Адаптивы:
 Десктоп отображается от&nbsp;`1280px` и&nbsp;выше. Контейнер имеет фиксированную ширину и&nbsp;центрируется. Планшет отображается в&nbsp;промежутке `768px`&nbsp;&mdash; `1279px`, все что ниже `768px`&nbsp;&mdash; отображаем мобилку.
 
+## Элементы интерфейса:
+Для этих блоков необходимо реализовать бегущую строку:
+
+![Running line](https://github.com/digitalSector47/traineeship-tasks/blob/master/task-1/images/running-lines.png)
+
+При наведении на эту карточку новости, необходимо добавить `css-анимацию` `rotate` для этого элемента:
+
+![Hover decor](https://github.com/digitalSector47/traineeship-tasks/blob/master/task-1/images/decor-icons.png)
+
+Как вы&nbsp;могли уже заметить картинки на&nbsp;странице имеют нестандартную форму, поэтому необходимо использовать `css маски`. Нужно сохранить для каждой картинки свою маску и&nbsp;применить ее&nbsp;в&nbsp;верстке.
+
+![Image mask](https://github.com/digitalSector47/traineeship-tasks/blob/master/task-1/images/image-mask.png)
+
+На&nbsp;странице есть форма подписки, необходимо реализовать валидацию `email`, если поле не&nbsp;корректно заполнили подсвечиваем инпут красным, в макетах есть пример текстового поля с ошибкой в секции `ui-kit`. После успешного заполнения формы, после отправки мы&nbsp;должны показать блок успеха, в&nbsp;макетах он&nbsp;также отображен в&nbsp;секции `ui-kit`
+
+![Form](https://github.com/digitalSector47/traineeship-tasks/blob/master/task-1/images/form.png)
+
 ## Система оценки:
 1. Верстка корректно отображения во&nbsp;всех современных браузерах и&nbsp;устройствах **(+20)**
 2. Используется подход `pixel perfect` **(+20)**

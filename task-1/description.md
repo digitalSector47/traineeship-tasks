@@ -8,8 +8,6 @@
 Необходимо сверстать [макет](https://www.figma.com/design/mu3xyHH7jl5xGsAB6C0eDa/DS%2F%D1%81%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%2F1?node-id=0-1&t=pO8T3EvVcBMVUoT6-1])<br />
 Шрифты по [ссылке](https://github.com/digitalSector47/traineeship-tasks/tree/master/task-1/fonts)
 
-Работа ведется в&nbsp;своем приватном репозитории в&nbsp;ветке с&nbsp;названием `ds-markup`. Далее необходимо пригласить в&nbsp;репозиторий `digitalSector47`.
-
 **Срок: 2&nbsp;недели**<br />
 Перед тем как начать выполнение задания, необходимо выполнить его оценку, оценивать нужно поблочно в&nbsp;часах.
 

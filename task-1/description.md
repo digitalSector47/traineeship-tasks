@@ -14,14 +14,14 @@
 **В фигме есть uikit, не забываем про него, в нем отображены состояния ховеров для кнопок, инпутов, ссылок, цветовая палитра, текстовые элементы и т.п..**
 
 ## Технические требования:
-1. Не&nbsp;разрешается использовать `Bootstrap`, `Material Design` и&nbsp;т.п. `сss-фреймворки`
-2. Не&nbsp;разрешается использовать `jQuery`, другие `js-библиотеки` и&nbsp;`фреймворки`
-3. Можно использовать `SCSS-препроцессор`
-4. Исходный код приложения должен быть читаемым, без минимизации или обфускации, не&nbsp;забываем структурировать стили/скрипты
-5. Верстка должна отображаться корректно во&nbsp;всех современных браузерах и&nbsp;устройствах
-6. Используем подход `pixel perfect`
-7. Для именования классов используем методологию `БЭМ`
-8. Писать коммиты по правилам «[Соглашение о коммитах](https://www.conventionalcommits.org/ru/v1.0.0/)»
+1. Не&nbsp;разрешается использовать `Bootstrap`, `Material Design` и&nbsp;т.п. `сss-фреймворки`.
+2. Не&nbsp;разрешается использовать `jQuery`, другие `js-библиотеки` и&nbsp;`фреймворки`.
+3. Можно использовать `SCSS-препроцессор`.
+4. Исходный код приложения должен быть читаемым, без минимизации или обфускации, не&nbsp;забываем структурировать стили/скрипты.
+5. Верстка должна отображаться корректно во&nbsp;всех современных браузерах и&nbsp;устройствах.
+6. Используем подход `pixel perfect`.
+7. Для именования классов используем методологию `БЭМ`.
+8. Писать коммиты по правилам «[Соглашение о коммитах](https://www.conventionalcommits.org/ru/v1.0.0/)».
 
 ## Оформление задачи:
 1. От&nbsp;ветки `ds-markup` создать&nbsp;PR в&nbsp;`master`
@@ -50,34 +50,34 @@
 ![Form](https://github.com/digitalSector47/traineeship-tasks/blob/master/task-1/images/forms.jpg)
 
 ## Система оценки:
-1. Верстка корректно отображения во&nbsp;всех современных браузерах и&nbsp;устройствах **(+20)**
-2. Используется подход `pixel perfect` **(+20)**
-3. Для именования классов используется БЭМ **(+10)**
-4. Реализована анимация ховера для ссылок которая есть в&nbsp;макетах **(+10)**
-5. Реализованы ховер состояния **(+10)**
-6. Изображения нестандартной формы реализованы с&nbsp;помощью `css масок` **(+10)**
-7. Реализована анимация бегущей строки декоративного блока **(+10)**
-8. Реализована валидация и&nbsp;состояние ошибки для формы подписки **(+10)**
+* Верстка корректно отображения во&nbsp;всех современных браузерах и&nbsp;устройствах **(+20)**.
+* Используется подход `pixel perfect` **(+20)**.
+* Для именования классов используется БЭМ **(+10)**.
+* Реализована анимация ховера для ссылок которая есть в&nbsp;макетах **(+10)**.
+* Реализованы ховер состояния **(+10)**.
+* Изображения нестандартной формы реализованы с&nbsp;помощью `css масок` **(+10)**.
+* Реализована анимация бегущей строки декоративного блока **(+10)**.
+* Реализована валидация и&nbsp;состояние ошибки для формы подписки **(+10)**.
 
 ## Штрафы:
-1. За&nbsp;использование `Bootstrap`, `Material Design` и&nbsp;т.п. `сss-фреймворков` **(-50)**
-2. За&nbsp;использование `jQuery`, других `js-библиотеки` и&nbsp;`фреймворков` **(-30)**
-3. Если исходный код проекта не&nbsp;читаем, не&nbsp;структурирован по&nbsp;файлам/папкам **(-20)**
-4. Папка &laquo;`node_modules`&raquo; находится в&nbsp;репозитории **(-10)**
-5. Коммиты не&nbsp;по&nbsp;правилам &laquo;Соглашения о&nbsp;коммитах&raquo; **(-10)**
+* За&nbsp;использование `Bootstrap`, `Material Design` и&nbsp;т.п. `сss-фреймворков` **(-50)**.
+* За&nbsp;использование `jQuery`, других `js-библиотеки` и&nbsp;`фреймворков` **(-30)**.
+* Если исходный код проекта не&nbsp;читаем, не&nbsp;структурирован по&nbsp;файлам/папкам **(-20)**.
+* Папка &laquo;`node_modules`&raquo; находится в&nbsp;репозитории **(-10)**.
+* Коммиты не&nbsp;по&nbsp;правилам &laquo;Соглашения о&nbsp;коммитах&raquo; **(-10)**.
 
 ## Материалы:
-+ [https://doka.guide/tools/how-the-browser-creates-pages/](https://doka.guide/tools/how-the-browser-creates-pages/)
-+ [https://doka.guide/css/pixel-perfect/](https://doka.guide/css/pixel-perfect/)
-+ [https://habr.com/ru/companies/ruvds/articles/729974/](https://habr.com/ru/companies/ruvds/articles/729974/)
-+ [https://doka.guide/css/animation/](https://doka.guide/css/animation/)
-+ [https://ru.bem.info/methodology/quick-start/](https://ru.bem.info/methodology/quick-start/)
-+ [https://doka.guide/html/form/](https://doka.guide/html/form/)
-+ [https://doka.guide/js/deal-with-forms/](https://doka.guide/js/deal-with-forms/)
-+ [https://doka.guide/tools/preprocessors/](https://doka.guide/tools/preprocessors/)
-+ [https://doka.guide/tools/pixel-density/](https://doka.guide/tools/pixel-density/)
-+ [https://doka.guide/html/picture/](https://doka.guide/html/picture/)
-+ [https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/Dealing_with_files](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
-+ [https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure](https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
-+ [https://sky.pro/wiki/html/organizatsiya-papok-js-i-css-v-proekte-luchshie-praktiki/](https://sky.pro/wiki/html/organizatsiya-papok-js-i-css-v-proekte-luchshie-praktiki/)
+* [https://doka.guide/tools/how-the-browser-creates-pages/](https://doka.guide/tools/how-the-browser-creates-pages/)
+* [https://doka.guide/css/pixel-perfect/](https://doka.guide/css/pixel-perfect/)
+* [https://habr.com/ru/companies/ruvds/articles/729974/](https://habr.com/ru/companies/ruvds/articles/729974/)
+* [https://doka.guide/css/animation/](https://doka.guide/css/animation/)
+* [https://ru.bem.info/methodology/quick-start/](https://ru.bem.info/methodology/quick-start/)
+* [https://doka.guide/html/form/](https://doka.guide/html/form/)
+* [https://doka.guide/js/deal-with-forms/](https://doka.guide/js/deal-with-forms/)
+* [https://doka.guide/tools/preprocessors/](https://doka.guide/tools/preprocessors/)
+* [https://doka.guide/tools/pixel-density/](https://doka.guide/tools/pixel-density/)
+* [https://doka.guide/html/picture/](https://doka.guide/html/picture/)
+* [https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/Dealing_with_files](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+* [https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure](https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+* [https://sky.pro/wiki/html/organizatsiya-papok-js-i-css-v-proekte-luchshie-praktiki/](https://sky.pro/wiki/html/organizatsiya-papok-js-i-css-v-proekte-luchshie-praktiki/)
 

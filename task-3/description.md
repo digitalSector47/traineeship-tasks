@@ -35,7 +35,7 @@ https://www.figma.com/design/mu3xyHH7jl5xGsAB6C0eDa/DS%2F%D1%81%D1%82%D0%B0%D0%B
 3. Используем хуки из библиотеки React. Писать собственные поощряется.
 4. Для работы с запросами используем `fetch`.
 5. Используется `TypeScript` в проекте для описания моделей `API`, для описания моделей хуков и т.п.
-6. Проект необходимо опубликовать на `GitHub-pages`, `Vercel`, `Netlify` или любую другую площадку.
+6. Проект реализуется локально без необходимости публикации на `GitHub-pages`, `Vercel`, `Netlify` или любую другую площадку.
 
 ## Технические требования:
 
@@ -58,8 +58,7 @@ https://www.figma.com/design/mu3xyHH7jl5xGsAB6C0eDa/DS%2F%D1%81%D1%82%D0%B0%D0%B
 
 1. От ветки `ds-markup-react` создать PR в `master`.
 2. Оформить [PR по правилам](https://github.com/digitalSector47/traineeship-tasks/blob/master/pull-request-rules.md).
-3. Опубликовать на GitHub-pages.
-4. В Канбан приложить ссылку на PR.
+3. В Канбан приложить ссылку на PR.
 
 ## Система оценки:
 
@@ -88,6 +87,5 @@ https://www.figma.com/design/mu3xyHH7jl5xGsAB6C0eDa/DS%2F%D1%81%D1%82%D0%B0%D0%B
 - https://react.dev/learn/add-react-to-an-existing-project
 - https://vitejs.dev/guide/features#css-modules
 - https://vitejs.dev/guide/features#css-pre-processors
-- https://www.geeksforgeeks.org/deployment-of-react-application-using-github-pages
 - https://docs.netlify.com/frameworks/vite/
 - https://habr.com/ru/articles/726354/ – Архитектура React приложений

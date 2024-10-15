@@ -6,8 +6,8 @@
 
 **Перед началом работы [ознакомится](https://github.com/digitalSector47/traineeship-tasks/blob/master/base-rules.md)**
 
-Важный инструмент любого Frontend-разработчика - это фреймворк. На этом этапе мы будем переносить верстку на **React** с Задания 1.
-Все условия этапа 1 должны быть соблюдены.
+Важный инструмент любого Frontend-разработчика - это фреймворк. На этом этапе мы будем переносить верстку на **React** с **Задания 1**.
+Все условия **Задания 1** должны быть соблюдены.
 Главная задача этого этапа ознакомиться с **API React**, потому нельзя будет использовать библиотеки для анимаций и т.п.
 Используем только базовые **hooks**. Ознакомимся с **TypeScript**.
 Важный ньюанс этапа, весь контент получаем по **API**.
@@ -45,16 +45,18 @@ https://www.figma.com/design/mu3xyHH7jl5xGsAB6C0eDa/DS%2F%D1%81%D1%82%D0%B0%D0%B
 2. Не разрешается использовать `Bootstrap`, `Material Design` и т.п. `CSS-фреймворки`.
 3. Не разрешается использовать `jQuery`, другие JS-библиотеки.
 4. Не разрешается использовать сторонние библиотеки react-\*, упрощающие задание.
-5. Можно использовать библиотеки `React`, `React-dom`.
-6. Можно использовать `SCSS`-препроцессор, `CSS`-модули.
-7. В проекте должен использоваться `ESLint` (airbnb-config), `Prettier`, `TypeScript`.
-8. Для сборки React приложения используем `Webpack` или `Vite`.
-9. Версия `Node.js 20-17-LTS`.
-10. Код приложения должен быть читаемым.
-11. Верстка должна отображаться корректно в трех последних версиях браузеров и устройствах.
-12. Используем подход `Pixel Perfect`.
-13. В «.gitignore» записана папка «node_modules».
-14. Писать коммиты по правилам [«Соглашения о коммитах»](https://www.conventionalcommits.org/en/v1.0.0/).
+5. Не разрешается использовать `axios`.
+6. В проекте должны использоваться библиотеки `React`, `React-dom`.
+7. Можно использовать `SCSS`-препроцессор, `CSS`-модули.
+8. В проекте должен использоваться `ESLint` (airbnb-config), `Prettier`, `TypeScript`.
+9. В проекте должен использоваться `TypeScript`.
+10. Для сборки React приложения используем `Webpack` или `Vite`.
+11. Версия `Node.js 20-17-LTS`.
+12. Код приложения должен быть читаемым.
+13. Верстка должна отображаться корректно в трех последних версиях браузеров и устройствах.
+14. Используем подход `Pixel Perfect`.
+15. В «.gitignore» записана папка «node_modules».
+16. Писать коммиты по правилам [«Соглашения о коммитах»](https://www.conventionalcommits.org/en/v1.0.0/).
 
 ## Оформление задачи:
 
@@ -86,6 +88,7 @@ https://www.figma.com/design/mu3xyHH7jl5xGsAB6C0eDa/DS%2F%D1%81%D1%82%D0%B0%D0%B
 - https://www.typescriptlang.org/docs/handbook/2/basic-types.html
 - https://react.dev/
 - https://react.dev/learn
+- https://react.dev/learn/typescript
 - https://react.dev/learn/add-react-to-an-existing-project
 - https://vitejs.dev/guide/features#css-modules
 - https://vitejs.dev/guide/features#css-pre-processors

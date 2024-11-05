@@ -116,3 +116,4 @@
 - https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 - https://eslint.org/docs/latest/use/getting-started
 - https://prettier.io/docs/en/install.html
+- https://blog.logrocket.com/9-ways-deploy-react-app-free/
